@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hao</h1>
-<h3 align="center">Newbie software developer skilled in JavaScript, React, SQL, and Java. Exploring Python for AI and data-driven projects.</h3>
+<h3 align="center">🎓 I'm a Computer Programming & Analysis student at Humber College, passionate about building efficient, scalable, and user-focused software systems. I love working with both frontend and backend technologies — from building RESTful APIs to designing modern UIs and deploying apps with Docker.
+</h3>
 
-- 🌱 I’m currently learning **C++, TypeScript, Node.js, Spring Boot , MongoDB**
+- 🌱 I’m currently learning **TypeScript, Node.js, Spring Boot , MongoDB**
 
-- 📫 How to reach me **hlhaole.professional@gmail.com**
+- 📫 How to reach me **hl.lehaof@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
