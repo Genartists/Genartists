@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hao</h1>
+<h1 align="center">Hi 👋, I'm Harry</h1>
 <h5 align="center">🎓 I'm a Computer Programming & Analysis student at Humber College, passionate about building efficient, scalable, and user-focused software systems. I love working with both frontend and backend technologies — from building RESTful APIs to designing modern UIs and deploying apps with Docker.
 </h5>
 
