@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced Python, System Design, AWS**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://haole.d2httqm5bh17an.amplifyapp.com/)
+- 👨‍💻 All of my projects are available at [My Portfolio] /(Under construction)
 
 - 📫 How to reach me **hl.lehaof@gmail.com**
 
